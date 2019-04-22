@@ -6,3 +6,4 @@ Mountains In Wales
 * Snowdon
 * glyder
 * y big
+* Cadair Idris
